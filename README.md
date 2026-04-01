@@ -12,17 +12,16 @@ Acredito que a tecnologia e os dados não são apenas ferramentas, mas o meio pa
 *   **Aprendizado Contínuo:** Evolução constante em ferramentas de automação e análise para garantir entregas modernas e eficientes.
 *   **Diferencial:** Raízes firmes na entrega de valor, sem perder de vista a inovação necessária para o mercado atual.
 
----
+### Ferramentas e Tecnologias
 
-### Ferramentas & Tecnologias
-![Python](https://shields.io) 
-![SQL](https://shields.io)
-![Excel](https://shields.io)
-![Pandas](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
+
+| | | |
+| :--- | :--- | :--- |
+| ![Python](https://shields.io) | ![SQL](https://shields.io) | ![Pandas](https://shields.io) |
+| ![Excel](https://shields.io) | ![Git](https://shields.io) | ![GitHub](https://shields.io) |
 
 ---
+
 
 ### Projetos e Colaboração
 Desenvolvo análises exploratórias e automações que conectam a necessidade técnica à realidade da operação. Estou sempre aberto a trocar experiências sobre como os dados podem otimizar resultados e criar novos caminhos para empresas e projetos.
