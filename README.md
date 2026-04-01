@@ -16,11 +16,11 @@ Hoje, foco minha evolução na **Análise de Dados**, utilizando a tecnologia pa
 
 ### 🛠️ No meu radar (Stacks & Ferramentas):
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![SQL](https://shields.io)
-![Excel](https://shields.io)
+![SQL](https://img.shields.io/badge/-SQL-0000FF?style=for-the-badge&logo=sql&logoColor=balck) 
+![Excel](https://img.shields.io/badge/-Excel-006400?style=for-the-badge&logo=Excel&logoColor=write) 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Pandas](https://shields.io)
+![Pandas](https://img.shields.io/badge/-Pandas-ffffff?style=for-the-badge&logo=Pandas&logoColor=191970)
 
 ---
 
