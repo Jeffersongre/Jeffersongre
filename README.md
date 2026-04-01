@@ -15,7 +15,7 @@ Acredito que o diferencial de um analista não está apenas nas ferramentas que 
 
 ### 🛠️ Stack Tecnológica
 
-![Python](https://shields.io)
+[![Python](https://shields.io)](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://shields.io)
 ![Pandas](https://shields.io)
 ![Excel](https://shields.io)
