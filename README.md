@@ -14,10 +14,13 @@ Acredito que a tecnologia e os dados não são apenas ferramentas, mas o meio pa
 
 ---
 
-### Competências e Ferramentas
-*   **Análise e Inteligência:** SQL, Python (Pandas/NumPy), Excel Avançado.
-*   **Tecnologia e Desenvolvimento:** Git, GitHub, HTML5, CSS3.
-*   **Gestão:** Foco em processos, disciplina operacional e visão de negócio.
+### Ferramentas & Tecnologias
+![Python](https://shields.io) 
+![SQL](https://shields.io)
+![Excel](https://shields.io)
+![Pandas](https://shields.io)
+![Git](https://shields.io)
+![GitHub](https://shields.io)
 
 ---
 
@@ -28,7 +31,7 @@ Desenvolvo análises exploratórias e automações que conectam a necessidade t�
 
 ### Contato
 *   **E-mail:** jeffoliveira308@gmail.com
-*   **LinkedIn:** [://linkedin.com](https://linkedin.com)
+*   **LinkedIn:** [Acessar Perfil](https://linkedin.com)
 
 ---
 *"A disciplina do mercado tradicional aplicada à precisão da análise de dados."*
