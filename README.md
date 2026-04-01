@@ -1,39 +1,46 @@
-# Jefferson Gregório | Estratégia & Inteligência de Dados
+# Jefferson Gregório 📊 | Data Analytics & Soluções Inteligentes
 
-Profissional com sólida base no mercado tradicional, onde desenvolvi disciplina, foco e uma visão orientada a resultados. Hoje, conecto essa experiência à **Análise de Dados**, transformando grandes volumes de informação em ferramentas de decisão estratégica.
+Sou um profissional que une a disciplina e o rigor do mercado tradicional à paixão pela inovação tecnológica. Minha trajetória é pautada pelo aprendizado contínuo e pela entrega de soluções práticas, combinando experiência de mercado com uma mentalidade analítica e atualizada.
 
-Acredito que o diferencial de um analista não está apenas nas ferramentas que ele domina, mas na sua capacidade de entender o negócio e entregar soluções que funcionam no mundo real.
-
----
-
-### 🔍 Perfil Profissional
-*   **Visão de Negócio:** Aplicação de metodologias ágeis e pensamento analítico para otimizar processos e identificar oportunidades.
-*   **Evolução Tecnológica:** Especializando-me em ecossistemas de dados para garantir análises precisas, escaláveis e de alto impacto.
-*   **Resiliência e Entrega:** Foco absoluto na qualidade da entrega, unindo o rigor técnico à agilidade necessária para o mercado atual.
+Hoje, foco minha evolução na **Análise de Dados**, utilizando a tecnologia para transformar informação em decisão e estratégia.
 
 ---
 
-### 🛠️ Stack Tecnológica
+### 🔍 O que me move:
+- **Cultura Data-Driven:** Acredito que decisões sólidas nascem de dados bem analisados.
+- **Evolução Contínua:** Especializando meu perfil para extrair insights que geram valor real aos negócios.
+- **Experiência Prática:** Trago a visão do dia a dia para que a tecnologia entregue resultados que funcionam de verdade.
+- **Foco Técnico:** Determinação para dominar ferramentas que otimizam processos e resolvem desafios complexos.
 
-[![Python](https://shields.io)](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
+
+### 🛠️ No meu radar (Stacks & Ferramentas):
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![SQL](https://shields.io)
-![Pandas](https://shields.io)
 ![Excel](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Pandas](https://shields.io)
 
 ---
 
-### 📈 Projetos e Desenvolvimento
-Atualmente focado no desenvolvimento de **análises exploratórias e automações**. Meu objetivo é construir pontes entre a tecnologia e a operação, garantindo que cada dado coletado se transforme em um insight valioso.
+### 📈 O que estou construindo:
+- Análises exploratórias de dados para identificar padrões e tendências.
+- Automação de processos para ganho de eficiência operacional.
+- Projetos que conectam a técnica da programação com a necessidade do negócio.
 
 ---
 
-### 📫 Vamos conversar?
-Estou sempre aberto a novas conexões e parcerias voltadas para inovação e dados.
-- **E-mail:** [jeffoliveira308@gmail.com](mailto:jeffoliveira308@gmail.com)
-- **LinkedIn:** [Acessar Perfil Profissional](https://linkedin.com)
+### 📫 Vamos conectar?
+Se você valoriza a união entre experiência de mercado e inteligência de dados, vamos conversar! 
+Estou pronto para colaborar e aplicar tecnologia onde ela mais importa.
 
 ---
-> *"A disciplina constrói a base; a análise de dados projeta o futuro."*
 
+**Contato:**  
+📧 jeffoliveira308@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/jefferson-gregório-03999a1b0)
+
+---
+
+> "Raízes no tradicional, visão no futuro e foco nos dados."
