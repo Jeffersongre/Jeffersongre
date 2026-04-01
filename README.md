@@ -1,36 +1,39 @@
-# Jefferson Gregório | Especialista em Análise de Dados e Estratégia
+# Jefferson Gregório | Estratégia & Inteligência de Dados
 
-Sou um profissional pautado pela disciplina e pelo foco do mercado tradicional, características que hoje aplico diretamente na Análise de Dados. Minha trajetória combina a experiência prática do dia a dia com a busca constante por inovação, criando soluções que unem o rigor da execução à inteligência tecnológica.
+Profissional com sólida base no mercado tradicional, onde desenvolvi disciplina, foco e uma visão orientada a resultados. Hoje, conecto essa experiência à **Análise de Dados**, transformando grandes volumes de informação em ferramentas de decisão estratégica.
 
-Acredito que a tecnologia e os dados não são apenas ferramentas, mas o meio para tomar decisões mais seguras e gerar resultados reais para o negócio.
-
----
-
-### Perfil e Atuação
-*   **Foco em Dados:** Especializando meu perfil para extrair insights estratégicos e transformar informações em planos de ação.
-*   **Mentalidade Analítica:** Uso da lógica e da organização do mercado tradicional para estruturar processos e resolver problemas complexos.
-*   **Aprendizado Contínuo:** Evolução constante em ferramentas de automação e análise para garantir entregas modernas e eficientes.
-*   **Diferencial:** Raízes firmes na entrega de valor, sem perder de vista a inovação necessária para o mercado atual.
-
-### Ferramentas e Tecnologias
-
-
-| | | |
-| :--- | :--- | :--- |
-| ![Python](https://shields.io) | ![SQL](https://shields.io) | ![Pandas](https://shields.io) |
-| ![Excel](https://shields.io) | ![Git](https://shields.io) | ![GitHub](https://shields.io) |
+Acredito que o diferencial de um analista não está apenas nas ferramentas que ele domina, mas na sua capacidade de entender o negócio e entregar soluções que funcionam no mundo real.
 
 ---
 
+### 🔍 Perfil Profissional
+*   **Visão de Negócio:** Aplicação de metodologias ágeis e pensamento analítico para otimizar processos e identificar oportunidades.
+*   **Evolução Tecnológica:** Especializando-me em ecossistemas de dados para garantir análises precisas, escaláveis e de alto impacto.
+*   **Resiliência e Entrega:** Foco absoluto na qualidade da entrega, unindo o rigor técnico à agilidade necessária para o mercado atual.
 
-### Projetos e Colaboração
-Desenvolvo análises exploratórias e automações que conectam a necessidade técnica à realidade da operação. Estou sempre aberto a trocar experiências sobre como os dados podem otimizar resultados e criar novos caminhos para empresas e projetos.
+---
+
+### 🛠️ Stack Tecnológica
+
+![Python](https://shields.io)
+![SQL](https://shields.io)
+![Pandas](https://shields.io)
+![Excel](https://shields.io)
+![Git](https://shields.io)
+![GitHub](https://shields.io)
 
 ---
 
-### Contato
-*   **E-mail:** jeffoliveira308@gmail.com
-*   **LinkedIn:** [Acessar Perfil](https://linkedin.com)
+### 📈 Projetos e Desenvolvimento
+Atualmente focado no desenvolvimento de **análises exploratórias e automações**. Meu objetivo é construir pontes entre a tecnologia e a operação, garantindo que cada dado coletado se transforme em um insight valioso.
 
 ---
-*"A disciplina do mercado tradicional aplicada à precisão da análise de dados."*
+
+### 📫 Vamos conversar?
+Estou sempre aberto a novas conexões e parcerias voltadas para inovação e dados.
+- **E-mail:** [jeffoliveira308@gmail.com](mailto:jeffoliveira308@gmail.com)
+- **LinkedIn:** [Acessar Perfil Profissional](https://linkedin.com)
+
+---
+> *"A disciplina constrói a base; a análise de dados projeta o futuro."*
+
