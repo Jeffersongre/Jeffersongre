@@ -1,37 +1,39 @@
-# Jefferson Gregorio 🚀 | Entusiasta de Tecnologia
+# Jefferson Gregório 📊 | Data Analytics & Soluções Inteligentes
 
-Sou um profissional que une a disciplina e o foco do mercado tradicional à paixão pela inovação. Minha trajetória é pautada pelo aprendizado contínuo e pela entrega de soluções práticas, combinando experiência de mercado com uma mentalidade criativa e atualizada.
+Sou um profissional que une a disciplina e o rigor do mercado tradicional à paixão pela inovação tecnológica. Minha trajetória é pautada pelo aprendizado contínuo e pela entrega de soluções práticas, combinando experiência de mercado com uma mentalidade analítica e atualizada.
 
----
-
-### O que me move:
-- 💻 Tecnologia é minha nova paixão — começando agora, mas com fome de dominar tudo  
-- 🔄 Transição de carreira com foco em crescimento, aprendizado constante e prática real  
-- ⚙️ Acredito que o futuro se constrói com conhecimento sólido e boas práticas  
-- 🎯 Determinação para transformar desafios em oportunidades, sempre na raça  
+Hoje, foco minha evolução na **Análise de Dados**, utilizando a tecnologia para transformar informação em decisão e estratégia.
 
 ---
 
-### O que já estou fazendo:
-- Estudando programação, automação e ferramentas modernas  
-- Criando projetos práticos para ganhar experiência no mundo real  
-- Participando de comunidades para absorver o que há de melhor e acelerar minha evolução  
+### 🔍 O que me move:
+- **Cultura Data-Driven:** Acredito que decisões sólidas nascem de dados bem analisados.
+- **Evolução Contínua:** Especializando meu perfil para extrair insights que geram valor real aos negócios.
+- **Experiência Prática:** Trago a visão do dia a dia para que a tecnologia entregue resultados que funcionam de verdade.
+- **Foco Técnico:** Determinação para dominar ferramentas que otimizam processos e resolvem desafios complexos.
 
 ---
 
-### Ferramentas & Tecnologias que estou explorando:  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+### 🛠️ No meu radar (Stacks & Ferramentas):
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![SQL](https://shields.io)
+![Excel](https://shields.io)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Pandas](https://shields.io)
 
 ---
 
-### Bora trocar ideia?  
-Se você acredita que nunca é tarde pra aprender, crescer e transformar a carreira, me chama!  
-Estou aqui pra crescer, colaborar e fazer acontecer.
+### 📈 O que estou construindo:
+- Análises exploratórias de dados para identificar padrões e tendências.
+- Automação de processos para ganho de eficiência operacional.
+- Projetos que conectam a técnica da programação com a necessidade do negócio.
+
+---
+
+### 📫 Vamos conectar?
+Se você valoriza a união entre experiência de mercado e inteligência de dados, vamos conversar! 
+Estou pronto para colaborar e aplicar tecnologia onde ela mais importa.
 
 ---
 
@@ -41,4 +43,4 @@ Estou aqui pra crescer, colaborar e fazer acontecer.
 
 ---
 
-> "No mundo da tecnologia, a curva de aprendizado nunca é reta. Mas quem tem garra, sobe até o topo."  
+> "Raízes no tradicional, visão no futuro e foco nos dados."
