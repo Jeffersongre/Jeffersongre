@@ -1,7 +1,6 @@
 # Jefferson Gregorio 🚀 | Entusiasta de Tecnologia
 
-Sou profissional de logística que decidiu virar o jogo e mergulhar de cabeça no universo da tecnologia.  
-Com raízes firmes no tradicional, trago disciplina, foco e experiência do dia a dia, somados à paixão por aprender, inovar e criar soluções que funcionam de verdade.
+Sou um profissional que une a disciplina e o foco do mercado tradicional à paixão pela inovação. Minha trajetória é pautada pelo aprendizado contínuo e pela entrega de soluções práticas, combinando experiência de mercado com uma mentalidade criativa e atualizada.
 
 ---
 
